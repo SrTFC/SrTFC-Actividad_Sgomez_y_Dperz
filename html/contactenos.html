@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contactenos</title>
+</head>
+
+<link rel="stylesheet" href="../css/contactenos.css">
+<script src="/Js/contactenos.js"></script>
+<script src="/Js/Login.js"></script>
+<body onload="mostrar()">
+    
+
+
+
+
+    
+
+
+    <center>
+        <header> <img src="../img/banner2.jpg" width="100%" height="50%" alt=""></header>
+    </center>
+  
+
+
+
+
+    <div id="menu">
+        <ul>
+        
+            <li><a href="../index.html"> <b>INICIO</b> </a></li>
+            <li><a href="../html/menú.html"> <b>MENU</b> </a></li>
+            <li><a href="../html/Menu2.html"> <b>MENU 2</b> </a></li>
+            <li><a href="../html/bebidas.html"> <b>BEBIDAS</b> </a></li>
+            <li><a href="../html/promos.html"> <b>PROMOS</b> </a></li>
+            <li><a href="../html/chat.html"> <b>CHAT</b> </a></li>
+            <li><a href="../html/facturas.html"> <b>FACTURA</b> </a></li>
+            <li><a href="../html/Practica4.html"> <b>COMPRA</b> </a></li>
+            <li onclick="cerrar()" id="cerrar"> CERRAR SESION</li>
+           
+            <br>
+        </ul>
+    </div>
+    
+    
+<br><br><br>
+<h2 id = "datos"></h2>
+<br><br><br>
+
+
+
+<form>
+
+ 
+
+    <label>Nombre
+        <input type="text" id="nom">
+        </label> 
+        
+        
+        
+        
+        
+        <label>Apellidos
+            <input type="text" id="apel">
+        </label>
+
+        <br><br>
+        
+        
+        <label>Documentos
+        <input type="text" id="doc">
+        </label>
+        
+        
+        
+        <label>Correo
+        <input type="text" id="cor"></label>
+        
+        <br><br>
+        
+        <label>Fecha de nacimiento
+            
+        <input type="date" id="fec">
+        </label>
+        
+        
+        <label>Genero
+        
+        
+        <select id="gen">
+            <option>-----</option>
+            <option>Masculino</option>
+            <option>Femenino</option>
+        </select></label> 
+        
+        <br><br>
+        
+        
+        
+        <label>Edad
+        <input type="text" id="ed">
+        </label> 
+        
+        <label>Efectivo</label> 
+        <input type="radio" name="pagos">
+        
+        
+        <label>Credito</label> 
+        <input type="radio" name="pagos" >
+        
+        <br><br> 
+        
+        
+        <label>Telefono
+        <input type="text" id="tele">
+        </label> 
+        
+        <label>Celular
+        <input type="text" id="cel" >
+        </label> 
+        <br><br>
+
+        <label>Alergia
+            <input type="text" id="ale">
+            </label> <br><br>
+        
+        
+       
+        
+        <input type="button" value="Mostrar" class="botones" onclick="procesar()" id="guardar">
+        
+        <input type="button" value="Limpiar" class="botones" id="reset" onclick="limpiar()">
+
+
+</form>
+
+
+<br><br><br><br><br><br>
+
+<div id="container">
+<h1>Datos</h1>
+
+<table border="2" id="tabla" >
+
+    <td></td>
+</tr>
+
+</table>
+
+</div>
+
+<br><br><br>
+<br>
+<br><br><br>
+<br>
+<br><br><br>
+<br>
+<br><br><br>
+<br>
+<br><br><br>
+<br>
+<br><br><br>
+<br>
+
+
+
+    <center>
+        <footer>© 2021 PAGINA DE THEPREZY - ROCAS - Cra 13B #55-60 - 3046408779 - 3004973899</footer>
+        </center>
+
+</body>
+</html>

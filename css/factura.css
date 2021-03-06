@@ -1,0 +1,114 @@
+body{
+    background-image:url(https://media.istockphoto.com/photos/background-picture-id1135575969?b=1&k=6&m=1135575969&s=170667a&w=0&h=AirgbRX9H0qAILibKT4qJ1T7t0dKlDRwL3TmNkzBLmo=);
+    font-size: 17px;
+    color: white;
+}
+header{
+    margin-top: 0.5em;
+   
+}
+
+#factura{
+
+    margin-left: 20em;
+
+    margin-top: 10em;
+
+    background: darkgray;
+
+    border-radius: 5px;
+
+    width: 750px;
+
+    height: 17em;
+    padding: 1em;
+
+    margin-top: -1em;
+}
+
+input{
+
+   
+
+    border: 2px solid;
+
+}
+
+li:hover{
+
+    background-color: grey;
+    cursor: pointer;
+}
+
+li{
+    margin-top: 10px;
+    float: left;
+    margin-left: -20px;
+    margin-bottom: 1px;
+    font-size: 24px;
+    background-color: white;
+    width: 225px;
+    list-style: none;
+    text-align: center;
+    
+   
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+   
+}
+
+
+
+h1{
+
+    margin-left: 18em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#caja{
+
+    margin-left: 25em;
+
+    margin-top: -30em;
+}
+
+#datos{
+    color: white;
+
+    background: none;
+    margin-left: 2em;
+}
+
+#cerrar{
+
+    margin-left: 3em;
+    background: gray;
+    color: white;
+}
+
+
+#cerrar:hover{
+
+    cursor: pointer;
+}
+
+footer{
+    background-color: red;
+}
+
+#cerrar{
+    
+    margin-left: 3em;
+    background: gray;
+    color: white;
+    
+}
+
+#cerrar:hover{
+
+    cursor: pointer;
+}

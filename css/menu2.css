@@ -1,0 +1,91 @@
+body{
+    background-image:url(https://media.istockphoto.com/photos/background-picture-id1135575969?b=1&k=6&m=1135575969&s=170667a&w=0&h=AirgbRX9H0qAILibKT4qJ1T7t0dKlDRwL3TmNkzBLmo=);
+    font-size: 17px;
+}
+header{
+    margin-top: 0.5em;
+   
+}
+
+
+h1{
+    color: white;
+    font-size: 100px;
+}
+
+p{
+
+    color: white;
+    margin-left: 2.5em;
+   
+}
+
+li{
+    margin-top: 10px;
+    float: left;
+    margin-left: -20px;
+    margin-bottom: 1px;
+    font-size: 24px;
+    background-color: white;
+    width: 225px;
+    list-style: none;
+    text-align: center;
+    
+   
+}
+
+li:hover{
+
+    background-color: grey;
+    cursor: pointer;
+}
+table{
+    margin-top: 10px;
+    float: left;
+    margin-right: 1px;
+    margin-left: 660px;
+    margin-bottom: 1px;
+    color: white;
+    font-size: 24px;
+    
+}
+
+
+
+p{
+    margin-left: 220px;
+}
+
+#efe{
+    margin-left: -210px;
+}
+footer{
+    margin-top: 5100px;
+    color: white;
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#datos{
+    color: white;
+
+    background: none;
+    margin-left: 2em;
+}
+
+#cerrar{
+
+    margin-left: 3em;
+    background: gray;
+    color: white;
+}
+
+
+#cerrar:hover{
+
+    cursor: pointer;
+}

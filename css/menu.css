@@ -1,0 +1,207 @@
+body{
+    background-image:url(https://media.istockphoto.com/photos/background-picture-id1135575969?b=1&k=6&m=1135575969&s=170667a&w=0&h=AirgbRX9H0qAILibKT4qJ1T7t0dKlDRwL3TmNkzBLmo=);
+    font-size: 17px;
+}
+header{
+    margin-top: 0.5em;
+   
+}
+
+p{
+
+    color: white;
+    margin-left: 2.5em;
+   
+}
+
+
+
+
+li{
+    margin-top: 10px;
+    float: left;
+    margin-left: -20px;
+    margin-bottom: 1px;
+    font-size: 24px;
+    background-color: white;
+    width: 225px;
+    list-style: none;
+    text-align: center;
+    
+   
+}
+#menu{
+
+    margin-top: 25px;
+
+ 
+    
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+    
+   
+}
+
+li:hover{
+
+    background: gray;
+
+    cursor: pointer;
+
+    
+
+    
+}
+
+#perro{
+
+    margin-left: 2.5em;
+}
+
+
+
+.perros{
+
+background-color: white;
+float: none;
+margin-left: 14em;
+
+margin-top: -2.7em;
+
+list-style:enable;
+
+}
+
+
+
+
+
+
+
+#pizza{
+
+margin-left: 2.5em;
+}
+
+.pizzas{
+
+    background-color: white;
+float: none;
+margin-left: 14em;
+
+margin-top: -2.7em;
+
+list-style:enable;
+
+}
+.pizzas:hover,.hamburguesas:hover,.perros:hover,.salchipapas:hover{
+
+    background: white;
+
+}
+
+#opciones{
+
+    margin-top: 5em;
+
+   
+
+   
+
+   
+}
+
+
+
+#hamburguesa{
+
+    margin-left: 2.5em;
+}
+
+
+
+.hamburguesas{
+
+background-color: white;
+float: none;
+margin-left: 14em;
+
+margin-top: -2.7em;
+list-style:enable;
+
+
+
+}
+
+
+
+
+#salchipapa{
+
+    margin-left: 2.5em;
+}
+
+
+
+.salchipapas{
+
+    background-color: white;
+    float: none;
+    margin-left: 14em;
+    
+    margin-top: -2.7em;
+    
+    list-style:enable;
+  
+}
+
+
+
+    footer{
+
+        color: white;
+        background-color: red;
+    }
+
+    
+
+    h1{
+
+        color: white;
+
+        margin-left: 4em;
+    }
+
+    #h{
+
+        margin-left: 2em;
+    }
+    #h1{
+
+        margin-left: 2.5em;
+    }
+
+    #carta{
+
+        margin-left: 55em;
+
+        margin-top: -60em;
+    }
+
+    #datos{
+        color: white;
+    
+        background: none;
+        margin-left: 2em;
+    }
+    
+    #cerrar{
+    
+        margin-left: 3em;
+        background: gray;
+        color: white;
+    }

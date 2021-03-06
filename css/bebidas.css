@@ -1,0 +1,128 @@
+body{
+    background-image:url(https://media.istockphoto.com/photos/background-picture-id1135575969?b=1&k=6&m=1135575969&s=170667a&w=0&h=AirgbRX9H0qAILibKT4qJ1T7t0dKlDRwL3TmNkzBLmo=);
+    font-size: 17px;
+}
+header{   
+    margin-top: 0.5em;
+
+}
+
+
+
+li{
+    margin-top: 10px;
+    float: left;
+    margin-left: -20px;
+    margin-bottom: 1px;
+    font-size: 24px;
+    background-color: white;
+    width: 230px;
+    list-style: none;
+    text-align: center;
+    
+   
+}
+a{
+    text-decoration: none;
+    color:black
+}
+footer{
+    color: white;
+    background-color: red;
+}
+
+table{
+    color:white;
+    padding: 0;
+    margin: 0;
+}
+#esp{
+    margin-left: 2em;
+}
+
+.ta{
+    margin-left: 2em; 
+    border: 2px solid;
+    color: white;
+    
+}
+
+#espa{
+    margin-left: 4em;
+}
+
+p{
+    text-align-last: center;
+    font-size: large;
+}
+
+#suma{
+ 
+    width: 150px;
+    height: 125px;
+    margin-left: 53%;
+
+    border-radius:  9px;
+
+    margin-top: -50em;
+    
+}
+
+#confi{
+    
+    margin-left: 56%;
+    margin-top: -7.9em; 
+}
+
+.casilla{
+    width: 20px;
+    margin-top: 0.0000000000001px;
+}
+
+input{
+
+    width: 60px;
+    margin-top: 2.85em;
+    
+}
+
+footer{
+    margin-top: 600px;
+}
+
+.check{
+    margin-bottom: 1.8px;
+    margin-top: 4px;
+}
+
+#resultado{
+
+    color: white;
+
+    margin-left:-5em;
+
+    margin-top: -0.5em;
+}
+
+#calculo{
+
+    width: 70px;  
+
+    text-align: center;
+
+    margin-top: -1em;
+}
+
+#datos{
+    color: white;
+
+    background: none;
+    margin-left: 2em;
+}
+
+#cerrar{
+
+    margin-left: 3em;
+    background: gray;
+    color: white;
+}
